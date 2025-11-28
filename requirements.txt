@@ -1,0 +1,5 @@
+pandas
+polars
+easygui
+matplotlib
+numpy>=1.20.3
