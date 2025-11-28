@@ -24,7 +24,7 @@ class Config:
     """Centralized configuration for all application parameters"""
     
     # ============ Application Settings ============
-    APP_TITLE = "CC log analyzer v0.9t"
+    APP_TITLE = "CLAN v0.9t"
     WINDOW_SIZE = "1400x800"
     LEFT_PANEL_WIDTH = 300
     
@@ -65,7 +65,7 @@ class Config:
     LABEL_SEARCH_PLACEHOLDER = "🔍 No search performed yet"
     
     # Tree View Headers
-    TREE_HEADER_VARIABLES = "CC Variables"
+    TREE_HEADER_VARIABLES = "Variables"
     TREE_HEADER_TYPE = "Type"
     TREE_HEADER_COUNT = "Count"
     
